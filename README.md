@@ -59,7 +59,7 @@ conda activate saferedir
 
 ### 2. Prepare checkpoints and data
 
-- Download Stable Diffusion v1.4 weights via `diffusers`.
+- Download Stable Diffusion weights via `diffusers`.
 - Place your SafeRedir model checkpoint at:
 
   `ckpt/Nudity/best_model.pt`
